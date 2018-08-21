@@ -1,0 +1,17 @@
+Ubuntu PPA  
+Personal Package Archives
+
+
+
+OLAP
+Online  Analytical Processing
+
+OLTP
+(Online Transaction Processing)
+
+
+backport
+Backport是将一个软件的补丁应用到比此补丁所对应的版本更老的版本的行为
+
+
+ORC的全称是(Optimized Row Columnar)

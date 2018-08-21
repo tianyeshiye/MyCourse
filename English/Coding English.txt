@@ -1,0 +1,54 @@
+﻿deprecated  [ˈdɛprɪˌket]   不再建议使用
+
+recursive   [rɪˈkɜ:rsɪv]   adj.	回归的，递归的;
+
+spurious    [ˈspjʊriəs]    adj.	假的，伪造的; 
+
+inventory   [ˈɪnvəntɔ:ri]   n.	清查; 存货清单; 财产目录  vt. 盘存; 编制…的目录
+
+Analytical 英[ˌænəˈlɪtɪkl]  adj.	分析的，分析法的
+
+accelerated  [æk'seləˌreɪtɪd]  adj.加速的;
+
+Cube   [kjub]    n.	立方形，立方体; 
+
+cuboid  [ˈkjuˌbɔɪd]   adj.	立方体的; 立方形的
+
+dimension  英[daɪˈmenʃn]  n.	尺寸;   维度
+
+hierarchy    英[ˈhaɪərɑ:ki]  n.	[计] 分层，层次; 等级制度
+
+combination     英[ˌkɒmbɪˈneɪʃn]  n.	结合; 联合体; 
+
+feature   英[ˈfi:tʃə(r)]  n.	特征，特点  vt.	使有特色; 描写…的特征
+
+optimized  美['ɒptɪmaɪzd] 优化的
+
+Bottleneck  美[ˈbɑ:tlnek]   瓶颈
+
+
+
+
+
+
+
+spark session
+
+
+
+
+
+
+vm.swappiness
+
+etc/sysctl.conf
+
+
+
+
+Compaction
+
+
+
+
+spark 性能调优 中文书 买一个
