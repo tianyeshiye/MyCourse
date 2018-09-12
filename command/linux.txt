@@ -1,0 +1,61 @@
+
+:set ff=unix
+
+sort
+ls -ltr
+
+sudo chmod 774 /code/readme.txt
+sudo chown user:group filename
+
+scp xxxx.jar 192.168.0.1:/home/suwabey
+
+ps aux|grep XXXXX
+
+监视log
+tail -f 
+tail -f XXXXX.log
+
+view 命令
+到最低
+shift + g
+
+
+sudo -u hdfs hdfs dfs -mkdir /dis/
+
+
+sudo -u hdfs hdfs dfs -ls -S /dis/
+
+ls -R
+
+1) file size
+udo -u hdfs hdfs dfs -du -h /
+
+
+文件大小
+sudo -u hdfs hdfs dfs -du -h /folder/fileName
+
+
+show all
+-lsr /log/   (??的)
+
+
+-du(s) ?示目?中所有文件大小,或者当只指定一个文件?，?示此文件的大小
+
+
+-count[-q] 显示当前目录下的所有文件大小
+
+
+-mv 移动多个文件目录到目标目录
+
+
+-cp 复制多个文件到目标目录
+
+
+
+screen  ls
+
+
+tmux
+
+
+locate

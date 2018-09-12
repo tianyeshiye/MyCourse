@@ -1,0 +1,11 @@
+
+git checkout . && git clean -xdf
+
+
+git clone -b release/XXXX url
+
+//查看本地tag
+git tag
+
+然后执行 checkout
+git checkout tag_name
