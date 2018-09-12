@@ -19,4 +19,9 @@ illegal
 约定优于配置
 convention over configuration
 
-confluence
+confluence   英 [ˈkɒnfluəns]    n.汇流;汇流处;
+
+approach  英 [əˈprəʊtʃ]   接近，走近  
+n.方法;途径;接近
+
+pattern  n. 模式;图案;花样，样品;榜样，典范
