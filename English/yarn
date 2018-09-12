@@ -1,7 +1,0 @@
-yarn application -list
-
-yarn application -status application_XXX
-
-yarn application -kill application_XXX
-
-sudo -u hive yarn logs -applicationId application_XXX > /temp/xx.log
