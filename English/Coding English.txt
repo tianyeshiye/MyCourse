@@ -29,23 +29,66 @@ Bottleneck  美[ˈbɑ:tlnek]   瓶颈
 Fraction  英 [ˈfrækʃn]  [数]分数;一小部分，些微;不相连的一块，片段
 
 
+time-of-day
+
+Monotonic  英[ˌmɒnə'tɒnɪk]
+Clock_realtime
+      代表机器上可以理解为当前的我们所常看的时间，其当time-of-day 被修改的时候而改变，这包括NTP对它的修改（NTP:Network Time Protocol（NTP）是用来使计算机时间同步化的一种协议，它可以使计算机对其服务器或时钟源（如石英钟，GPS等等)做同步化，它可以提供高精准度的时间校正（LAN上与标准间差小于1毫秒，WAN上几十毫秒），且可介由加密确认的方式来防止恶毒的协议攻击。）
+CLOCK_MONOTONIC 
+      代表从过去某个固定的时间点开始的绝对的逝去时间，它不受任何系统time-of-day时钟修改的影响，如果你想计算出在一台计算机上不受重启的影响，两个事件发生的间隔时间的话，那么它将是最好的选择
 
 
-spark session
+
+coalesce  算子   [ˌkoʊəˈles]  vi.
+联合，合并
+
+
+standby  master  美 [ˈstændˌbaɪ]  n.
+备用品 备用的
+
+eden
+
+survivor  [sərˈvaɪvə]  生还者;幸存者，残存者;遗物，残存物;
+
+minor gc   英 [ˈmaɪnə]   较小的，少数的，
+full  gc
+
+yong generation
+old generation   [ˌdʒɛnəˈreʃən] 一代人;代（约30年）
+
+在Spark作业运行时，会创建出来大量的对象，每一次将对象放入JVM时，首先将创建的对象都放入到eden区域和其中一个survivor区域中；当eden区域和一个survivor区域放满了以后，这个时候会触发minor gc，把不再使用的对象全部清除，而剩余的对象放入另外一个servivor区域中。JVM中默认的eden，survivor1，survivor2的内存占比为8:1:1。当存活的对象在一个servivor中放不下的时候，就会将这些对象移动到老年代。如果JVM的内存不够大的话，就会频繁的触发minor gc，这样会导致一些短生命周期的对象进入到老年代，老年代的对象不断的囤积，最终触发full gc。一次full gc会使得所有其他程序暂停很长时间。最终严重影响我们的Spark的性能和运行速度。
 
 
 
 
 
+spark.yarn.executor.memoryOverhead
+堆外内存
+
+dependency   英 [dɪˈpendənsi]  n.
+属国，属地;从属
+
+snapshot    [ˈsnæpʃɒt]   （快照）照片，独立的印象
+
+new SparkConf().set("spark.shuffle.consolidateFiles","true")
+
+consolidate   [kənˈsɒlɪdeɪt]  vt.
+统一;把…合成一体，
+
+spill   [spɪl]   溢出;泼出;涌出;
 
 vm.swappiness
 
 etc/sysctl.conf
 
+ 
+fatal   [ˈfeɪtl]   adj.
+致命的，攸关的;毁灭性的
 
 
 
-Compaction
+compaction  英 [kəm'pækʃən]  n.
+压实;压紧
 
 
 

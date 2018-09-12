@@ -1,4 +1,4 @@
-Ubuntu PPA  
+﻿Ubuntu PPA  
 Personal Package Archives
 
 
@@ -15,3 +15,8 @@ Backport是将一个软件的补丁应用到比此补丁所对应的版本更老
 
 
 ORC的全称是(Optimized Row Columnar)
+
+ACK 英文缩写: ACKnowledge Character
+在数据通信传输中，接收站发给发送站的一种传输控制字符。它表示确认发来的数据已经接受无误。 
+NAK 英文缩写: Negative Acknowledgment
+是否定应答或者非应答的缩写。它是一个用于数字通信中确认数据受到但是有小错误的信号。
