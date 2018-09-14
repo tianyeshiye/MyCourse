@@ -18,3 +18,9 @@ http://blog.sina.com.cn/s/blog_567e650201011s7n.html
 
  Avro介绍
 https://www.cnblogs.com/Henry-pan/p/7242584.html
+
+
+http://avro.apache.org/docs/current/spec.html
+
+push down
+https://cwiki.apache.org/confluence/display/Hive/FilterPushdowndev
