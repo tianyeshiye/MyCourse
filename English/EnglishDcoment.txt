@@ -1,0 +1,20 @@
+aliases  ['eɪlɪəsɪz]  别名
+
+retain　 [rɪˈteɪn] 　vt.　保持;留在心中，记住;雇用
+
+exclude
+
+ownership   n. 所有权;
+
+permission   [pəˈmɪʃn]  n.允许;批准
+
+Use chown and chmod to set the ownership and permissions on the new directory. 
+使用chown和chmod设置新目录的所有权和权限。
+
+
+
+AVRO 规范－Schema的定义和声明 
+http://blog.sina.com.cn/s/blog_567e650201011s7n.html
+
+ Avro介绍
+https://www.cnblogs.com/Henry-pan/p/7242584.html
