@@ -1,1 +1,134 @@
 Expectation   英 [ˌekspekˈteɪʃn]  期望
+
+
+inconvenient  英 [ˌɪnkənˈvi:niənt]   adj. 不便;不方便的
+
+generate 英 [ˈdʒenəreɪt]  vt.形成，造成
+
+Besides  英 [bɪˈsaɪdz]  adv.此外;而且
+
+backwards-compatability   向后相容性
+
+backwards  英 [ˈbækwədz]  adj. 向后的;倒行的;
+
+onward   英 [ˈɒnwəd]   adj.向前的，前进的
+
+compatability    相容性
+
+workaround 英 [ˈwɜ:kəraʊnd]   n.  解决办法  变通方案
+
+In addition to  除了
+
+manual  英 [ˈmænjuəl]  n. 手册;指南;    手工的;
+
+perform  英 [pəˈfɔ:m]  vt.& vi. 执行;履行;表演;
+
+predicate   英 [ˈpredɪkət] n.谓语;述语  vt.断言，断定
+
+pushdown  英 ['pʊʃdəʊn]    下推
+
+transitivity  英 [ˌtrænsəˈtɪvəti] n. 传递性，转移性
+
+invite   英 [ɪnˈvaɪt]   邀请;招致;请求;
+
+reject  英 [rɪˈdʒekt]  拒绝;排斥;
+
+strict   英 [strɪkt]  adj.  精确的;绝对的;严格的，
+
+prevent   英 [prɪˈvent]   vt.预防;阻止;阻碍
+
+recognizing   v.认出( recognize的现在分词 );承认[认清]（某事物）;赏识;承认
+
+optimizer  英 ['ɑ:ptɪmaɪzər]  [计] 优化程序;
+
+optimization  英 [ˌɒptɪmaɪ'zeɪʃən]  n.最佳化，最优化;
+
+minimizing 英 ['mɪnɪmaɪzɪŋ]  v.把…减至最低数量
+
+further  英 [ˈfɜ:ðə(r)]  更多的;更远的，较远的;更进一步的，
+
+evaluation   英 [ɪˌvæljʊ'eɪʃn]   n.估价;<数>赋值
+
+builtin   n.    Builtin是built in的意思，表示内建帐户
+
+Integration   整合
+
+Implement Indexing in Hive
+
+involve　　英 [ɪnˈvɒlv]　　adj.　vt.　　包含;使参与
+
+overall 　　　adj.全部的;全体的
+
+effort　　英 [ˈefət] 　　n.工作;努力，尝试
+
+propagate   英 [ˈprɒpəgeɪt]   vt. 繁衍，增殖;使遗传;扩散;使蔓延
+
+via   英 [ˈvaɪə]   prep.  经过;通过
+
+
+corresponding   英 [ˌkɒrəˈspɒndɪŋ] adj.   相当的，对应的;通信的
+
+
+representation   [ˌreprɪzenˈteɪʃn]   n.表现;陈述;表现…的事物;有代理人
+
+neutral   英 [ˈnju:trəl]  adj.
+中立的;（化学中）中性的;暗淡的;
+
+independent of  不依赖
+
+dependent on  依赖
+
+loosely    英 [ˈlu:sli]   adv.  松散的  随意地;大意，粗略地，不严格的;
+
+coupled with
+
+couple 英 [ˈkʌpl]   n.  对，双;配偶 夫妻; vt.&vi.  连在一起，连接
+
+dependency  英 [dɪˈpendənsi]  n. 属国，属地;从属，从属物
+
+duplicate  英 [ˈdju:plɪkeɪt]   v.
+重复;复制
+
+particular   英 [pəˈtɪkjələ(r)]  adj.
+特别的;详细的;  n.
+特色，特点
+
+corresponding  英 [ˌkɒrəˈspɒnd]   vi.
+相应;通信;符合，一致
+
+In particular   尤其
+
+In general   通常
+
+parse  英 [pɑ:z]  vt. 从语法上描述或分析（词句等）
+
+underlying   英 [ˌʌndəˈlaɪɪŋ]  潜在的，含蓄的;基础的;表面下的，下层的;  优先于(underlie的ing形式);
+
+qualified    英 [ˈkwɒlɪfaɪd]   adj.
+有资格的，胜任的，适当的，合格的;
+
+
+interpret  英 [ɪnˈtɜ:prɪt]   vt.
+解释;理解;口译;诠释，体现
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
