@@ -1,23 +1,12 @@
 Expectation   英 [ˌekspekˈteɪʃn]  期望
 
-
 inconvenient  英 [ˌɪnkənˈvi:niənt]   adj. 不便;不方便的
 
 generate 英 [ˈdʒenəreɪt]  vt.形成，造成
 
 Besides  英 [bɪˈsaɪdz]  adv.此外;而且
 
-backwards-compatability   向后相容性
-
-backwards  英 [ˈbækwədz]  adj. 向后的;倒行的;
-
-onward   英 [ˈɒnwəd]   adj.向前的，前进的
-
-compatability    相容性
-
 workaround 英 [ˈwɜ:kəraʊnd]   n.  解决办法  变通方案
-
-In addition to  除了
 
 manual  英 [ˈmænjuəl]  n. 手册;指南;    手工的;
 
@@ -49,8 +38,6 @@ further  英 [ˈfɜ:ðə(r)]  更多的;更远的，较远的;更进一步的，
 
 evaluation   英 [ɪˌvæljʊ'eɪʃn]   n.估价;<数>赋值
 
-builtin   n.    Builtin是built in的意思，表示内建帐户
-
 Integration   整合
 
 Implement Indexing in Hive
@@ -65,59 +52,59 @@ propagate   英 [ˈprɒpəgeɪt]   vt. 繁衍，增殖;使遗传;扩散;使蔓�
 
 via   英 [ˈvaɪə]   prep.  经过;通过
 
-
 corresponding   英 [ˌkɒrəˈspɒndɪŋ] adj.   相当的，对应的;通信的
-
 
 representation   [ˌreprɪzenˈteɪʃn]   n.表现;陈述;表现…的事物;有代理人
 
-neutral   英 [ˈnju:trəl]  adj.
-中立的;（化学中）中性的;暗淡的;
-
-independent of  不依赖
-
-dependent on  依赖
+neutral   英 [ˈnju:trəl]  adj.  中立的;（化学中）中性的;暗淡的;
 
 loosely    英 [ˈlu:sli]   adv.  松散的  随意地;大意，粗略地，不严格的;
 
-coupled with
+loose   英 [lu:s]    adj.松的，宽的;模糊的;散漫的;自由的
 
 couple 英 [ˈkʌpl]   n.  对，双;配偶 夫妻; vt.&vi.  连在一起，连接
 
 dependency  英 [dɪˈpendənsi]  n. 属国，属地;从属，从属物
 
-duplicate  英 [ˈdju:plɪkeɪt]   v.
-重复;复制
+duplicate  英 [ˈdju:plɪkeɪt]   v.重复;复制
 
-particular   英 [pəˈtɪkjələ(r)]  adj.
-特别的;详细的;  n.
-特色，特点
+particular   英 [pəˈtɪkjələ(r)]  adj. 特别的;详细的;  n.特色，特点
 
-corresponding  英 [ˌkɒrəˈspɒnd]   vi.
-相应;通信;符合，一致
-
-In particular   尤其
-
-In general   通常
+corresponding  英 [ˌkɒrəˈspɒnd]   vi.相应;通信;符合，一致
 
 parse  英 [pɑ:z]  vt. 从语法上描述或分析（词句等）
 
 underlying   英 [ˌʌndəˈlaɪɪŋ]  潜在的，含蓄的;基础的;表面下的，下层的;  优先于(underlie的ing形式);
 
-qualified    英 [ˈkwɒlɪfaɪd]   adj.
-有资格的，胜任的，适当的，合格的;
+qualified    英 [ˈkwɒlɪfaɪd]   adj.有资格的，胜任的，适当的，合格的;
 
+interpret  英 [ɪnˈtɜ:prɪt]   vt.解释;理解;口译;诠释，体现
 
-interpret  英 [ɪnˈtɜ:prɪt]   vt.
-解释;理解;口译;诠释，体现
+complex 　　　英 [ˈkɒmpleks]　 adj.复杂的;难懂的;复合的
 
+indexable　　　英 [ɪn'dekseɪbl]　　　可加索引
 
+subexpression　　英 [sʌbɪksp'reʃn] 　[计] 子表达式
 
+companion   英 [kəmˈpæniən]  n.同伴;   vt.  陪伴;同行
 
+followup  随访;跟踪;追踪
 
+discriminating    英 [dɪˈskrɪmɪneɪtɪŋ]  adj.有鉴别能力的
 
+combine  英 [kəmˈbaɪn]   v.使结合;使化合;
 
+approach  英 [əˈprəʊtʃ]   vt.& vi.接近，走近，靠近
 
+encapsulate  英 [ɪnˈkæpsjuleɪt]  vt. 封装;概述
+
+instantiating  实例化
+
+decomposition   英 [ˌdi:kɒmpə'zɪʃn]   n.  分解;腐烂
+
+theory  英 [ˈθɪəri]   n.理论;原理;
+
+influence  英 [ˈɪnfluəns]  vt.影响;
 
 
 
