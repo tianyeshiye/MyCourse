@@ -106,16 +106,40 @@ theory  英 [ˈθɪəri]   n.理论;原理;
 
 influence  英 [ˈɪnfluəns]  vt.影响;
 
+populate   英 [ˈpɒpjuleɪt]   vt.  居住于;生活于;
 
+equivalent  英 [ɪˈkwɪvələnt]   adj. 相等的，相当的，等效的;
 
+pruning   英 [pru:nɪŋ]   v.  修剪（树木等）( prune的现在分词 );
 
+collapse   英 [kəˈlæps]    vi. 崩溃;倒塌;折叠
 
+expression  英 [ɪkˈspreʃn]  n. 表现，表示，表达;
 
+stick  英 [stɪk]  vt.& vi. 粘贴;张贴;插入;刺入
 
+implicitly   英 [ɪm'plɪsɪtlɪ]  adv. 含蓄地;暗示地;无疑问地;无保留地
 
+prevent  英 [prɪˈvent]   vt.预防;阻止;阻碍
 
+Decomposition  英 [ˌdi:kɒmpə'zɪʃn]   n.  分解;腐烂
 
+assumed  英 [əˈsju:md]   adj.  假定的;假装的;假冒的;被承担的
 
+implement  英 [ˈɪmplɪment]  vt. 实施，执行;使生效，实现;
 
+facility  英 [fəˈsɪləti]  n.  能力;
+
+optimal  英 [ˈɒptɪməl]  adj. 最佳的，最优的;最理想的
+
+negotiate  英 [nɪˈgəʊʃieɪt]    vi.   谈判，协商，交涉
+
+entire  英 [ɪnˈtaɪə(r)]    adj. 整个的;全部的
+
+residual   英 [rɪˈzɪdjuəl]   adj.  残留的;残余的
+
+portion  英 [ˈpɔ:ʃn] n.  一部分;
+
+interaction   英 [ˌɪntər'ækʃn]  n.  互动;一起活动;合作
 
 
