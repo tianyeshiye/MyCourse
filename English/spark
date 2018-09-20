@@ -1,0 +1,146 @@
+Structured  streaming 
+['strʌktʃəd]   结构化的
+
+incrementally   递增地
+ 
+continuously  [kən'tɪnjʊəslɪ]    连续不断地
+
+aggregation  [ˌæɡrɪˈɡeʃən]  聚集
+
+ensure   [ɛnˈʃʊr] 确保
+
+guarantee   [ˌgærənˈti:]  保证
+
+checkpointing    [t'ʃekpɔɪntɪŋ]    检查点
+
+Internally   [ɪn'tɜ:nəlɪ]   adv.  ;本质地
+
+a series of  [ei ˈsiəri:z ɔv]  一系列 一系列;一连串
+
+exactly-once   恰好一次
+
+fault-tolerant 英 ['fɔ:ltt'ɒlərənt]  容错
+
+end-to-end   端到端的
+
+latency   ['leɪtənsɪ]  等待时间
+
+achieving end-to-end latencies as low as 100 milliseconds and exactly-once fault-tolerance guarantees
+
+Continuous Processing
+Continuous  [kənˈtɪnjuəs]  adj. 连续的;延伸的
+
+concept   [ˈkɒnsept]   观念，概念;观点;思想
+
+maintain  英 [meɪnˈteɪn]  保持;保养;坚持
+
+unassigned  英 [ˌʌnə'saɪnd]   未指派的
+
+assigned    英 [ə'saɪnd]  adj.指定的，赋值的
+
+Availability   英 [əˌveɪlə'bɪlətɪ] 可利用性
+
+functionality  [ˌfʌŋkʃəˈnæləti]   功能性;
+
+
+represent   英 [ˌreprɪˈzent]   表现，象征;代表
+
+calculate   英 [ˈkælkjuleɪt]   计算;估计;
+
+unbounded  [ʌnˈbaʊndɪd]  無邊界的
+
+transformation   [ˌtrænsfəˈmeɪʃn]    n. 变化;<核>转换
+
+multiple  [ˈmʌltɪpl]  多重的;多个的;复杂的
+
+specified  英 ['spesɪfaɪd]  明确规定
+ 
+Termination   [ˌtɜ:mɪˈneɪʃn]   n. 结束;终止
+
+treat  英 [tri:t]   对待;处理;
+
+continuously  英 [kən'tɪnjʊəslɪ]   连续不断地
+
+incremental  英 [ˌɪŋkrə'mentl]  adj. 增加的
+
+appended   附加的
+
+Consider  考虑
+
+trigger  [ˈtrɪgə(r)]    触发
+
+external  [ɪkˈstɜ:nl]      外部的
+
+sink   英 [sɪŋk]   水池
+
+allocate   英 [ˈæləkeɪt]  vt. 分配
+
+contain   英 [kənˈteɪn]   包含
+
+illustrate   英 [ˈɪləstreɪt]   说明;表明
+
+
+
+
+step-by-step
+
+actually   [ˈæktʃuəli]  adv. 实际上;确实
+
+related to   涉及
+walk through
+
+interval   间隔
+
+entire  英 [ɪnˈtaɪə(r)]  整个的
+
+connector  英 [kəˈnektə(r)]  连接器
+
+combine  英 [kəmˈbaɪn]  v.使结合
+
+materialize  英 [məˈtɪəriəlaɪz]  具体化;实质化
+
+discard  [dɪsˈkɑ:d]  丢弃，抛弃;
+
+intermediate   [ˌɪntəˈmi:diət]  中间的，中级的
+
+embed    [ɪm'bed]   把…嵌入
+
+relieve   [rɪˈli:v]   釋放 缓解
+relieving stress
+
+
+
+
+
+
+
+equivalent  英 [ɪˈkwɪvələnt]  adj. 相等的，相当的
+
+eventually  [ɪˈventʃuəli]  终究;终于
+thereby  adv.由此，从而
+mostly   adv.大部分，多半;主要地
+significantly   英 [sɪgˈnɪfɪkəntli]   明显地
+Furthermore     此外
+thus  [ðʌs]   因此
+
+reason  vt  推理，思考
+
+rather than  而不是後面的
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
