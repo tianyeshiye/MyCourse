@@ -1,3 +1,7 @@
+Linux查看版本当前操作系统发行版信息
+cat /etc/redhat-release
+
+
 
 :set ff=unix
 
