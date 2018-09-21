@@ -1,0 +1,100 @@
+https://www.kubernetes.org.cn/4387.html
+Ubuntu 18.04 离线安装Kubernetes v1.11.1
+
+
+https://www.kubernetes.org.cn/4415.html
+ansible一键安装k8s1.10x_and_k8s1.11x
+
+
+Kubernetes v1.11.x HA 全手动安装教程（TL; DR）
+https://www.kubernetes.org.cn/4291.html
+
+
+
+
+容器、Docker与Kubernetes——什么是Kubernetes以及它是如何使得容器化基础设施变得简单
+http://dockone.io/article/2113
+
+
+
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+迁移传统应用到Kubernetes步骤详解——以Hadoop YARN为例
+https://jimmysong.io/posts/migrating-hadoop-yarn-to-kubernetes/
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+
+
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+容器技术在大数据场景下的应用——Yarn on 
+https://jimmysong.io/posts/yarn-on-docker/
+
+https://jimmysong.io/posts/yarn-on-docker/
+
+https://jimmysong.io/tags/kubernetes/
+https://jimmysong.io/tags/kubernetes/
+
+
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+https://jimmysong.io/about/
+
+https://jimmysong.io/posts/migrating-hadoop-yarn-to-kubernetes/
+
+https://jimmysong.io/posts/deploy-applications-in-kubernetes/
+
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+https://github.com/apache-spark-on-k8s
+
+
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+Minikube - Kubernetes本地实验环境
+https://yq.aliyun.com/articles/221687?commentId=17521
+
+
+
+
+
+Kubernetes部署大数据组件系列一：一键部署Zookeeper集群
+https://blog.csdn.net/hxpjava1/article/details/78523793
+
+
+
+
+一 kubernetes 认证
+
+https://kubernetes.io/docs/reference/access-authn-authz/rbac/
+
+https://sealyun.com/post/k8s-rbac/
+
+二 kubernetes go client
+
+https://github.com/kubernetes/client-go
+
+三 kubernetes第三方认证
+
+https://sealyun.com/post/k8s-authenticating/#验证tocken
+
+---------------------
+
+本文来自 张金玉 的CSDN 博客 ，全文地址请点击：https://blog.csdn.net/xsjzdrxsjzdr/article/details/80860355?utm_source=copy 
+
+
+
+
+
+
+
+Kubernetes微服务架构应用实践
+https://blog.csdn.net/moonpure/article/details/68925830
+
+
+
+Running Spark on Kubernetes
+http://spark.apache.org/docs/2.3.1/running-on-kubernetes.html#accessing-driver-ui
+
+Spark 2.3.0+Kubernetes应用程序部署
+https://blog.csdn.net/duan_zhihua/article/details/79451559
+
+
+Spark on k8s 试用步骤
+https://blog.csdn.net/ZQZ_QiZheng/article/details/79540487
