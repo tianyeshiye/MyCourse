@@ -22,6 +22,10 @@ compatible [kəmˈpætəbl]   adj.兼容的，相容的;和谐的
 
 archetype  英 [ˈɑ:kitaɪp]   n. 原型;典型
 
+glob  [glɒb] 一团
+
+watermarking   水印技术
+
 
 
 
