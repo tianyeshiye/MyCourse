@@ -1,0 +1,2 @@
+API 設計原則
+http://docs.kubernetes.org.cn/249.html
