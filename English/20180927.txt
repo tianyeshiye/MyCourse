@@ -1,0 +1,87 @@
+portable 英 [ˈpɔ:təbl]  adj. 轻便的;手提的
+
+Loosely coupled  松耦合
+
+loosely 英 [ˈlu:sli] 松散地 
+
+coupled 英 ['kʌpld] 耦合的  连结的，联系的
+
+couple  英 [ˈkʌpl]   n. 对，双;配偶，夫妻 
+           vt.&vi.连在一起，
+           
+Distribute  [dɪˈstrɪbju:t]   分配，散布
+
+laptop  英 [ˈlæptɒp]  便携式电脑
+
+
+brief   [bri:f] 短暂的;（衣着）短的;  n.概要;短文
+
+Deployment 英 [dɪ'plɔɪmənt]   n.部署;调度
+
+containerize   英 [kən'teɪnəraɪz]   vt.      用集装箱装运（货物
+containerized 容器的
+
+addon  插件
+
+supervisor   英 [ˈsu:pəvaɪzə(r)]    n.监督者，管理者
+
+fluent   英 [ˈflu:ənt]   adj.流利的;流畅的
+
+cohesive  英 [kəʊˈhi:sɪv] adj.有黏着力的
+
+volume  英 [ˈvɒlju:m]    存储卷     n.体积;卷;音量;
+
+Provision  英 [prəˈvɪʒn] n. 规定，条项
+
+
+Ingress  進入
+
+
+architecture  英 [ˈɑ:kɪtektʃə(r)] n. 体系结构;
+
+advisor  英 [əd'vaɪzə]  顾问，劝告者;
+
+dashboard  英 [ˈdæʃbɔ:d]   仪表板;仪表盘;
+
+federation  英 [ˌfedəˈreɪʃn]   n.联邦，同盟;联盟
+
+accumulation  英 [əˌkju:mjə'leɪʃn]  n.积累;堆积物;累积量
+
+Declarative　英 [dɪˈklærətɪv]　　　声明的
+Imperative　　　命令性
+Replication 
+
+Daemon  守护进程
+
+disposable   [dɪˈspəʊzəbl]  用后就抛弃的;
+
+stateless 无状态
+stateful 有状态
+可丢弃（disposable）；
+不可丢弃（non-disposable）；
+持久存储卷（Persistent Volume，PV）
+持久存储卷声明（Persistent Volume Claim
+
+High Availability 集群
+
+
+使用Minikube 部署 Kubernetes 集群
+http://docs.kubernetes.org.cn/109.html
+
+
+基于Docker快速搭建多节点Hadoop集群
+https://www.cnblogs.com/linux-wangkun/p/5766562.html
+http://dockone.io/article/395
+
+https://github.com/kiwenlau/hadoop-cluster-docker
+
+
+Kubernetes设计架构
+https://www.kubernetes.org.cn/kubernetes%E8%AE%BE%E8%AE%A1%E6%9E%B6%E6%9E%84
+
+Ubuntu 18.04 离线安装Kubernetes v1.11.1
+https://www.kubernetes.org.cn/4387.html
+
+
+Kubernetes v1.11.x HA 全手动安装教程（TL; DR）
+https://www.kubernetes.org.cn/4291.html
