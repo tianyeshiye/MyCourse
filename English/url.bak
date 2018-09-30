@@ -26,8 +26,6 @@ https://baijiahao.baidu.com/s?id=1608318790313647913&wfr=spider&for=pc
 
 
 
-
-
 Spark2.0 Structured Streaming
 https://blog.csdn.net/dongyunlon/article/details/52145685
 
@@ -36,12 +34,21 @@ StructuredStreaming官方文档翻译
 https://blog.csdn.net/songjifei/article/details/73844637
 
 
+对spark2.3.0中Structured Streaming低延迟持续处理模式的介绍
+https://blog.csdn.net/u013468917/article/details/79643850
+
+
+Structured Streaming 实现思路与实现概述
+https://blog.csdn.net/gongpulin/article/details/78198971
 
 
 
 
 
 
+
+sparkstreaming同时消费多个topic的数据实现exactly-once的语义
+https://blog.csdn.net/xianpanjia4616/article/details/81709075
 
 
 
