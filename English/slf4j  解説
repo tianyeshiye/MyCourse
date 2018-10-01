@@ -5,3 +5,13 @@ log4j-core
 log4j-api
 
 slf4j
+
+
+private final Marker marker = MarkerFactory.getMarker("xxxxxxMarker");
+private final ResourceBundle bundle = ResourceBundle.getBundle("xxxxxMessage");
+  
+private final Logger logger = LoggerFactory.getLogger(clazz);
+
+if (isDebugEnabled()) {
+   logger.debug(marker, toMessage(code));
+}
