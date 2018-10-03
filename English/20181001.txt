@@ -1,0 +1,25 @@
+assignable   英 [ə'saɪnəbl]  可归属的，
+
+assign     英 [əˈsaɪn]   vt.  分派，选派，分配;归于，归属;
+
+utility   英 [ju:ˈtɪləti]    有多种用途的;各种工作都会做的
+
+appropriate    英 [əˈprəʊpriət]  adj. 适当的;合适的
+
+essentially  英 [ɪˈsenʃəli]  adv.本质上，根本上
+
+wrapper  英 [ˈræpə(r)]   n.包装纸;封套;封皮
+
+
+bound  英 [baʊnd]  n.界限，限制  adj .用带子绑住的;
+
+Bundle   美 [ˈbʌndl]  n.捆;一批
+
+Detach  英 [dɪˈtætʃ]   vt.派遣
+
+
+radix   英 ['reɪdɪks]   n. 根，基数
+
+
+MarkerFactory.getMarker("fwMarker");
+ ResourceBundle.getBundle("message");
