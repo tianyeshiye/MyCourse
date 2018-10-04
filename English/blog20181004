@@ -1,0 +1,41 @@
+靠谱运维   牛人博客
+https://www.ixdba.net/archives/2017/11/975.htm
+
+大數據田地
+http://lxw1234.com/
+
+zabbix
+https://www.ixdba.net/archives/2017/11/975.htm
+
+yarn的资源隔离 ？ 
+
+yarn-资源调度控制 ？ 
+
+
+是什麽在浪費我的時間
+https://www.ixdba.net/archives/2012/06/229.htm
+https://www.ixdba.net/archives/2012/06/229.htm
+
+
+
+blog
+Spark常见问题解决办法
+https://blog.csdn.net/you12345678901234567/article/details/52763713
+
+
+blog
+Running Spark on YARN
+https://spark.apache.org/docs/2.3.0/running-on-yarn.html
+
+
+Spark Configuration
+https://spark.apache.org/docs/2.3.0/configuration.html
+
+
+spark log blog
+http://shzhangji.com/blog/2015/05/31/spark-streaming-logging-configuration/
+
+
+yarn.nodemanager.log-aggregation.roll-monitoring-interval-seconds
+yarn.log-aggregation.retain-seconds
+yarn.log-aggregation.retain-check-interval-seconds
