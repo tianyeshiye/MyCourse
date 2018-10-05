@@ -1,0 +1,71 @@
+spout 英 [spaʊt] 喷口，喷嘴;水柱  vt.& vi.喷出;喷射
+
+
+stuff  英 [stʌf]   材料，原料  素材资料
+
+unfortunately  英 [ʌnˈfɔ:tʃənətli]  adv.可惜;不幸地
+
+omit  英 [əˈmɪt] vt.省略;遗漏
+
+conflict  英 [ˈkɒnflɪkt]  n.冲突;矛盾
+
+indicate 英 [ˈɪndɪkeɪt] t. 表明，标示，指示
+
+Edge
+
+topology  英 [tə'pɒlədʒɪ]   n.拓扑结构
+
+capacity  英 [kəˈpæsəti]  n.容量;性能;
+
+Coordinator  英 [kəʊ'ɔ:dɪneɪtə]   n.协调者;
+
+environment  英 [ɪnˈvaɪrənmənt] 
+
+stages  英 [steɪdʒ]
+
+Initialized 英 [ɪ'nɪʃlaɪzd]  
+
+overriding  英 [ˌəʊvəˈraɪdɪŋ]   覆盖;推翻
+
+Slide  分片
+
+Storage  英 [ˈstɔ:rɪdʒ] 
+  
+interval  英 [ˈɪntəvl]
+
+metric  英 [ˈmetrɪkl]   adj.测量的，度量的
+
+interceptor  英 [ˌɪntəˈseptə(r)]  n. 拦截机
+
+coordinator  英 [kəʊ'ɔ:dɪneɪtə]   协调者
+ 
+Revoke   英 [rɪˈvəʊk] vt. 废除
+
+previously  英 ['pri:vɪəslɪ]  dv. 以前;事先
+
+assigned  英 [ə'saɪnd]  [计]指定的，赋值的
+
+assign    [计]指定的，赋值的
+
+Revoking previously assigned partitions [] for group  
+
+Registering  英 ['redʒɪstərɪŋ]   寄存  注册;登记
+
+accumulator  英 [əˈkju:mjəleɪtə(r)]   计) 累加器
+
+leak   英 [li:k]    泄漏
+
+detect 英 [dɪˈtekt]   查明，发现
+
+attempt  [əˈtempt]  尝试
+
+Dictionary  字典
+
+estimated   英 ['estɪmetɪd]  adj.估计的
+
+goog 網址
+https://samebug.io/
+
+https://stackoverflow.com
+
+http://www.javased.com/?api=org.msgpack.MessageTypeException
