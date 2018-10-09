@@ -1,0 +1,24 @@
+intelligence  英 [ɪnˈtelɪdʒəns]  情报;智力;
+
+comprehension  英 [ˌkɒmprɪˈhenʃn]   理解，理解力;包含的能力
+
+statement   英 [ˈsteɪtmənt]     （文字）陈述
+
+conceptual　　英 [kənˈseptʃuəl]　　概念的
+
+
+
+
+hadoop distcp（分布式复制）命令
+https://blog.csdn.net/ejtooo/article/details/23563067
+strategy dynamic hadoop
+
+
+
+爲什麽 map 中不能使用println函數
+https://www.cnblogs.com/fly2wind/p/7922997.html
+
+
+Spark中的错误处理
+https://blog.csdn.net/zrc199021/article/details/52711593
+http://rcardin.github.io/big-data/apache-spark/scala/programming/2016/09/25/try-again-apache-spark.html
