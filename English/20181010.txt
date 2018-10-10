@@ -1,0 +1,14 @@
+trusted
+
+innovator   创新者;改革者
+
+coordinator
+
+
+
+
+
+
+HDFS的存储策略
+
+https://www.cnblogs.com/lzfhope/p/7068909.html
