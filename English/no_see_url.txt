@@ -1,0 +1,98 @@
+Spark多种运行模式以及每种模式的执行方法
+https://www.ixdba.net/archives/2018/08/1192.htm
+
+spark client mode和cluster mode的区别
+https://www.ixdba.net/archives/2018/08/1233.htm
+
+Yarn简单介绍及内存配置
+https://www.ixdba.net/archives/2017/03/573.htm
+
+Hadoop运维必须知道的10个运维技能
+https://www.ixdba.net/archives/2017/03/580.htm
+
+
+Hadoop、Storm、Samza、Spark和Flink大数据框架对比
+https://www.ixdba.net/archives/2017/03/585.htm
+
+
+Spark中的错误处理
+https://blog.csdn.net/zrc199021/article/details/52711593
+Try again, Apache Spark!
+http://rcardin.github.io/big-data/apache-spark/scala/programming/2016/09/25/try-again-apache-spark.html
+
+YARN调度相关整理
+https://blog.csdn.net/prstaxy/article/details/55261330
+
+
+Yarn 调度器Scheduler详解
+https://blog.csdn.net/suifeng3051/article/details/49508261
+
+
+
+全面理解Java内存模型
+https://blog.csdn.net/suifeng3051/article/details/52611310
+Java 异常设计最佳实践
+https://blog.csdn.net/suifeng3051/article/details/52126895
+浅谈服务治理与微服务
+https://blog.csdn.net/suifeng3051/article/details/53992560
+
+
+Spark RDD的默认分区数：
+https://www.jianshu.com/p/4b7d07e754fa
+spark.default.parallelism 的問題
+
+
+Spark性能调优之合理设置并行度
+https://www.cnblogs.com/haozhengfei/p/e19171de913caf91228d9b432d0eeefb.html
+RDD关键性能考量之 并行度
+https://www.cnblogs.com/ihongyan/p/4976414.html
+
+
+
+Sparkstreaming and Kafka
+https://www.cnblogs.com/hmy-blog/p/7799204.html
+
+
+
+值得一提：关于 HDFS 的 file size 和 block size
+https://blog.csdn.net/samhacker/article/details/23089157
+
+
+
+Spark Streaming Logging Configuration
+http://shzhangji.com/blog/2015/05/31/spark-streaming-logging-configuration/
+
+
+
+Spark Configuration
+https://spark.apache.org/docs/2.3.0/configuration.html
+
+
+Running Spark on YARN
+https://spark.apache.org/docs/2.3.0/running-on-yarn.html#running-spark-on-yarn
+
+
+牛人博客
+http://lxw1234.com/
+Heaven Wang 的专栏
+https://blog.csdn.net/suifeng3051/article/category/5848629
+
+
+
+英文資料
+http://rcardin.github.io/big-data/apache-spark/scala/programming/2016/09/25/try-again-apache-spark.html
+
+感想
+https://www.ixdba.net/archives/2014/08/331.htm
+
+視頻學習
+https://www.ixdba.net/sample-page/51ctolinux
+
+
+程序員的核心競爭力
+http://www.open-open.com/news/view/15fa750
+
+注重编程思想
+我一直都认为编程的思想比编程的能力重要。
+
+一个人的编程思想有很多因素构成：对产品的认识，对细节的要求，解决问题的思路，与人沟通的能力，调试的技巧，业务的了解和抽象能力，架构能力等等……
