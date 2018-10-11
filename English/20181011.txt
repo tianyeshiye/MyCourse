@@ -1,0 +1,43 @@
+Transform  [trænsˈfɔ:m]    vt. 变换;改变
+
+Slide    滑动;溜   
+
+interval   间隔
+
+bootstrap
+
+strategy   [ˈstrætədʒi]  策略，战略;
+
+assignment  [əˈsaɪnmənt]  n.分给，分配;任务
+
+Managed memory leak detected  管理内存泄漏检测
+
+estimated    ['estɪmetɪd]  adj.估计的;估算的;预计的
+
+persistence　[pəˈsɪstəns]　
+
+
+
+
+
+
+
+
+Spark修炼之道（高级篇）——Spark源码阅读：第八节 Task执行
+https://blog.csdn.net/lovehuangjiaju/article/details/49475023
+
+
+
+
+
+
+牛人專欄
+https://blog.csdn.net/column/details/sparkindepth.html
+https://blog.csdn.net/column/details/sparkindepth.html?&page=3
+
+Spark 1.5.0 远程调试
+https://blog.csdn.net/lovehuangjiaju/article/details/49227919
+
+
+Spark UI界面原理
+https://blog.csdn.net/dabokele/article/details/51843176
