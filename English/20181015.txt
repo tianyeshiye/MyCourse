@@ -1,0 +1,128 @@
+Dynamic Allocation
+Dynamic 美 [daiˈnæmik]  adj 动态的
+Allocation 美 [ˌæləˈkeɪʃn]   配给，分配
+
+infinity  美 [ɪnˈfɪnɪti]   <数>无穷大
+
+idle	英[ˈaɪdl]  美[ˈaɪdl]  空闲的; 无意义的;
+
+scale   美 [skel]    衡量;
+
+relevant   美 [ˈrɛləvənt]   有关的，中肯的;相关联的
+
+duration  美 [duˈreɪʃn]   n. 持续，持续的时间  期间
+
+Upper bound  
+Lower bound 
+
+pending   美 [ˈpɛndɪŋ]   在等待…期间  adj. 未决的;待定的;未定的
+
+backlog  美 [ˈbæklɔ:g]  n.积压未办之事   vt.（使）积压;储存
+
+sustained   美 [səˈstend]    adj.持久的，持续的
+
+External   美 [ɪkˈstɜ:rnl]  adj.外面的，外部的
+
+mechanism　　[ˈmɛkəˌnɪzəm] 　　机能
+
+workload　　美 [ˈwɜ:rkloʊd]　　工作量，工作负担
+
+alternative  美 [ɔ:lˈtɜ:rnətɪv]  adj 替代的;另类的;备选的
+
+credentials  美 [krəˈdenʃlz]   n.证书;凭证，证件
+
+predict  [prɪˈdɪkt]  预测;预示，预告
+
+heuristic  [hjʊˈrɪstɪk]  adj. 启发式的;探试的，探索的
+
+determine  [dɪˈtɜ:rmɪn]  vt. 决定，确定;判定
+
+pend   [pend]  vi. 悬而未决
+
+scheduled  美 ['skedʒəld]   adj. 预定的;排定的  vt.将…列入计划（或时间）表
+
+circumstance  美 [ˈsɜ:rkəmstæns]   n.环境，境遇;事实
+
+mutually  美 [ˈmjuːtʃuəli]   adv.互相地，互助
+
+exclusive  美 [ɪkˈsklusɪv]  adj 专用的;高级的;排外的;单独的
+
+motivation 美 [ˌmotəˈveʃən]  n. 动机;动力
+
+exponential increase policy is twofold
+
+exponential  [ˌɛkspəˈnɛnʃəl]  n.指数; adj.指数的，幂数的;
+twofold  美 [ˈtu:foʊld]  adj. 两倍的;<书>由两部分组成的，有两部分的
+
+in the near future  近期
+
+
+
+Spark 动态资源分配(Dynamic Resource Allocation) 解析
+https://blog.csdn.net/allwefantasy/article/details/50564477
+https://spark.apache.org/docs/2.3.1/configuration.html#dynamic-allocation
+
+
+https://blog.csdn.net/samhacker/article/details/18542487
+关于 hadoop-2.2 配置中的 yarn.nodemanager.aux-services 项
+
+
+spark on yarn　配置説明   mapreduce_shuffle  spark_shuffle
+https://blog.csdn.net/stark_summer/article/details/48661317
+
+
+
+************************
+集群部署YARN
+https://www.jianshu.com/p/076705abb50d
+
+************************
+Spark Shuffle原理、Shuffle操作问题解决和参数调优
+spark shuffle mapreduce shuffle
+https://blog.csdn.net/leone911/article/details/74943259
+https://blog.csdn.net/u010697988/article/details/70173104
+https://www.cnblogs.com/arachis/p/Spark_Shuffle.html
+
+************************
+Spark学习笔记之-Spark on yarn（External Shuffle Service）
+https://blog.csdn.net/dandykang/article/details/48160927
+
+辅助服务
+aux Service
+************************
+
+
+************************
+Spark运行原理剖析
+http://ihoge.cn/2018/Spark%20Scheduler.html
+Spark早期版本只支持静态资源申请，即一开始就指定用多少资源，在整个Spark应用程序运行过程中资源都不能改变，后来支持动态Executor申请，用户不需要指定确切的Executor数量，Spark会动态调整Executor的数量以达到资源利用的最大化。
+************************
+
+
+************************
+初步掌握Yarn的架构及原理
+http://www.cnblogs.com/codeOfLife/p/5492740.html
+yarn 原理
+NodeManager的一个最重要的功能是根据ApplicationMaster的要求启动container，由于各个节点上的container由ResourceManager进行统一管理和分配的，通常，ResourceManager将Container分配给ApplicationMaster，ApplicationMaster再进一步要求对应的NodeManager启动container。为防止ApplicationMaster未经授权随意要求NodeManager启动container，ResourceManager一般会为每个container分配一个令牌（ApplicationMaster无法伪造），而NodeManager启动任何container之前均会对令牌的合法性进行验证，一旦通过验证后，NodeManager才会按照一定的流程启动该container。本章将介绍NodeManager启动container的详细流程。
+************************
+
+
+************************
+spark 關鍵文檔位置（官方）
+https://spark.apache.org/docs/2.3.1/configuration.html
+************************
+
+
+************************
+Resource Allocation Policy
+https://spark.apache.org/docs/2.3.1/job-scheduling.html#resource-allocation-policy
+************************
+
+
+牛人博客
+https://blog.csdn.net/stark_summer/article/details/48661317
+
+http://www.ihoge.cn/
+http://sharkdtu.com/posts/spark-scheduler.html
+
+爲什麽不敢買，衹要符合原則就可以出手
