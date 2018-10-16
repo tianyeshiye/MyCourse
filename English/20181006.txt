@@ -1,0 +1,47 @@
+Quorum    美 [ˈkwɔrəm, ˈkwor-]    法定人数
+journal　　美 [ˈdʒɜ:rnl]　　日报，日志，日记;
+
+Quorum-based 存储是指使用Quorum Journal Manager（QJM）来实现　HA 高可用
+为使备用NameNode与活动NameNode同步，两个节点都与一组名为JournalNodes的独立守护进程进行通信
+
+
+
+HDFS高可用简介
+https://www.jianshu.com/p/a3242285da54
+
+
+理解HDFS高可用性架构
+https://www.cnblogs.com/caiyisen/p/7396907.html
+
+
+HDFS的高可用机制详解
+https://blog.csdn.net/u012736748/article/details/79534019
+
+
+
+解析Spark Executor
+Spark 任务调度之启动CoarseGrainedExecutorBackend
+https://blog.csdn.net/u011564172/article/details/69703662?ref=myrecommend
+
+解析Spark Executor内幕,详解CoarseGrainedExecutorBackend
+https://blog.csdn.net/chic_data/article/details/77317730
+
+
+spark-core_25:Master通知Worker启动CoarseGrainedExecutorBackend进程及初始化源码分析
+https://blog.csdn.net/luyllyl/article/details/80419117
+
+
+
+***************************************
+牛人
+http://www.cnblogs.com/jcchoiling/p/6436185.html
+[Spark内核] 第33课：Spark Executor内幕彻底解密：Executor工作原理图、ExecutorBackend注册源码解密、Executor实例化内幕、Executor具体工作内幕
+
+
+SPARK源码阅读 
+http://www.louisvv.com/archives/1518.html
+***************************************
+
+
+
+
