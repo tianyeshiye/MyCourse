@@ -1,0 +1,54 @@
+subsequent  美 [ˈsʌbsɪˌkwɛnt, -kwənt] adj. 随后的;后来的
+
+sustained  美 [səˈstend]   adj. 持久的，持续的
+
+sustain   美 [səˈsten]  vt.维持;供养;支撑，支持
+
+frequently   美 [ˈfrikwəntlɪ]   adv.往往;动辄;频繁地，屡次地;动
+
+Estimation   美 [ˌɛstəˈmeʃən]   n.估计; 评价; 判断
+
+announcement   美 [əˈnaʊnsmənt]   n.宣告;通告;布告;预告
+
+summit  美 [ˈsʌmɪt]  n.顶点;高层会议  adj.最高级的   
+
+Events and Meetups   事件与聚会
+
+memory overhead   内存开销
+
+interactive  美 [ˌɪntɚˈæktɪv]   [计]交互式的
+
+Combine   美 [kəmˈbaɪn]  v.使结合;使化合;兼有
+ 
+Combine streaming with batch and interactive queries.
+
+Fault Tolerance  容错
+
+Ease of Use  易用性
+
+tolerance  美 [ˈtɑ:lərəns]   n.宽容，容忍
+
+Fraction   美 [ˈfrækʃən]  片段   [数]分数;一小部分，些微;不相连的一块，;
+
+
+the nabble archive  ??????????????
+
+
+
+***********************************************************************
+Kubernetes学习之 Hadoop cluster in Kubernetes
+https://blog.csdn.net/z294155673/article/details/78754128
+
+
+Kubernetes部署大数据组件系列二：一键部署Hadoop集群
+https://blog.csdn.net/hxpjava1/article/details/78523454
+
+
+Hadoop 运行在 Kubernetes平台实践
+https://www.kubernetes.org.cn/3795.html
+
+Kubernetes与YARN的结合
+https://blog.csdn.net/zhangjun2915/article/details/44081307
+***********************************************************************
+
+Kubernetes yarn 關係 ？？？？？？？？？？？？？？？？？？
