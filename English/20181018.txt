@@ -1,0 +1,34 @@
+WARN scheduler.TaskSchedulerImpl:
+Initial job has not accepted any resources; check your cluster UI to ensure that workers are registered and have sufficient resources
+
+sufficient　美 [səˈfɪʃənt] 　　adj.足够的;充足的;
+
+
+
+
+
+
+Avro 向已存在的文件中append数据
+https://blog.csdn.net/yangbl928/article/details/24929967
+
+
+spark的rdd.saveastextfile可以追加写入hdfs吗
+https://blog.csdn.net/u013013024/article/details/73124142
+
+
+spark-streaming多目录追加写
+https://blog.csdn.net/ukakasu/article/details/80067068?utm_source=blogxgwz2
+
+
+HDFS文件内容追加(Append)
+https://www.iteblog.com/archives/881.html
+
+Hadoop之SequenceFile
+https://blog.csdn.net/qianshangding0708/article/details/47666735
+但是SequenceFile文件不能追加写入，适用于一次性写入大量小文件的操作
+
+
+
+如何将数据追加到现有的parquet文件(How to append data to an existing parquet file)
+http://www.it1352.com/843087.html
+不支持追加寫入
