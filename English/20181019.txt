@@ -52,3 +52,31 @@ https://blog.csdn.net/zhangjun2915/article/details/44081307
 ***********************************************************************
 
 Kubernetes yarn 關係 ？？？？？？？？？？？？？？？？？？
+
+
+Spark中各个角色的JVM参数设置
+https://blog.csdn.net/wuxb_2000/article/details/52870198
+spark笔记　JVM
+https://blog.csdn.net/lw_ghy/article/details/52946136
+
+
+
+
+
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+Spark源码系列（一）spark-submit提交作业过程
+https://www.cnblogs.com/cenyuhai/p/3775687.html
+
+平台搭建---Spark Submit提交应用程序
+https://blog.csdn.net/qingqing7/article/details/79103297
+
+简单Spark作业编写与提交执行
+https://blog.csdn.net/u012842205/article/details/53160171
+
+Spark（五）Spark任务提交方式和执行流程
+http://www.cnblogs.com/frankdeng/p/9301485.html
+
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+
+牛人博客
+https://www.cnblogs.com/frankdeng/category/1206144.html
