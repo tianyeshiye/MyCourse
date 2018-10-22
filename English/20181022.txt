@@ -1,0 +1,85 @@
+log aggregation   日志聚合
+
+standby    [ˈstændˌbaɪ]  adj.备用的
+
+topology   美 [tə'pɑ:lədʒɪ]  拓扑结构
+
+
+
+spark性能调优
+https://endymecy.gitbooks.io/spark-config-and-tuning/content/tuning.html
+
+
+SSH无密码登录的原理及配置
+https://www.cnblogs.com/konrad/p/6901273.html
+
+
+
+Spark（五）Spark任务提交方式和执行流程
+http://www.cnblogs.com/frankdeng/p/9301485.html
+http://www.cnblogs.com/frankdeng/p/9301485.html
+
+********************************************************
+https://www.cnblogs.com/frankdeng/tag/Spark/
+
+
+一  使用IDEA开发Spark程序
+https://www.cnblogs.com/frankdeng/p/9092512.html
+********************************************************
+
+
+**********************************************************************
+Yarn(分布式协作服务)和Zookeeper(分布式资源管理器)之间的关系
+https://blog.csdn.net/laolu1573/article/details/78540508
+
+Hadoop-2.4.1学习之高可用ResourceManager
+https://blog.csdn.net/skywalker_only/article/details/41726189
+
+hadoop+zookeeper+yarn搭建高可用完全分布式环境详细步骤
+https://blog.csdn.net/jiaotongqu6470/article/details/78301599
+
+linux -- 基于zookeeper搭建yarn的HA高可用集群
+https://www.cnblogs.com/meiLinYa/p/9175916.html
+**********************************************************************
+
+
+**********************************************************************
+Spark调优
+https://endymecy.gitbooks.io/spark-config-and-tuning/content/spark-tuning.html
+**********************************************************************
+
+**********************************************************************
+Spark Streaming + Kafka集成指南
+https://www.cnblogs.com/frankdeng/p/9308585.html
+
+
+Spark（八）JVM调优以及GC垃圾收集器
+https://www.cnblogs.com/frankdeng/p/9301798.html
+
+Spark（七）Spark内存调优
+https://www.cnblogs.com/frankdeng/p/9301783.html
+**********************************************************************
+
+
+*****************************************************************
+Spark 动态资源分配(Dynamic Resource Allocation) 解析
+祝威廉
+https://www.jianshu.com/p/79ebdb1dbaff
+
+spark参数调优详解目录
+https://blog.csdn.net/zyzzxycj/article/details/81011540
+
+spark 参数调优10-Dynamic Allocation动态分配
+https://blog.csdn.net/zyzzxycj/article/details/82256893
+*****************************************************************
+
+
+
+
+*************************
+牛人博客
+https://www.cnblogs.com/frankdeng/tag/Spark/
+
+http://www.louisvv.com/archives/1518.html
+
+*************************
