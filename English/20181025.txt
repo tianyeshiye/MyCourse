@@ -1,0 +1,62 @@
+Duration   美 [duˈreɪʃn]   n.持续，持续的时间，期间
+
+seek   美 [sik]   vt.寻找，探寻;追求
+
+persist  美 [pərˈsɪst]   v.坚持;存留;固执;
+
+retention 　美 [rɪˈtɛnʃən]　　n.保留;记忆力，保持力
+
+
+Resilient  distributed datasets（弹性分布式数据集，简写RDDs）
+問 ' 一個 DStream有幾個RDD
+有N個RDD
+一個時間間隔内只有一個RDD
+一个批次，只有一个RDDs
+
+
+5.RDDs的特性
+https://www.cnblogs.com/wonglu/p/7252440.html
+
+
+Spark踩坑记——Spark Streaming+Kafka
+https://www.cnblogs.com/xlturing/p/6246538.html
+
+
+*****************************************************************
+【Java心得总结六】Java容器中——Collection
+https://www.cnblogs.com/xlturing/default.html?page=3
+*****************************************************************
+
+*****************************************************************
+JVM memory
+https://blog.csdn.net/qq_35138768/article/details/51545151
+https://blog.csdn.net/u013063153/article/details/75578363
+https://blog.csdn.net/yrpting/article/details/52859721
+*****************************************************************
+
+
+
+*****************************************************************
+再谈Spark Streaming Kafka反压
+https://www.jianshu.com/p/c0b724137416
+
+Spark Streaming和Kafka集成深入浅出
+https://mp.weixin.qq.com/s?__biz=MzI0MzYzNTk5NQ==&mid=2247483960&idx=1&sn=d7a7dbf460e59221bd647c3aa9c1a42e&chksm=e96b404cde1cc95a142681b26394e8236bac81429332c3af8ded1e1314576cabb9ee373fff02&scene=21#wechat_redirect
+
+*****************************************************************
+
+
+
+kafka的OffsetOutOfRangeException
+https://blog.csdn.net/itfootball/article/details/52815862
+spark streaming kafka OffsetOutOfRangeException 异常分析与解决
+https://blog.csdn.net/xueba207/article/details/51174818
+
+
+
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+大牛博客
+https://www.jianshu.com/u/583d47401afc
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+
+
