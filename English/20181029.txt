@@ -1,0 +1,57 @@
+supervisor    美 [ˈsu:pərvaɪzə(r)]    监督者，管理者;
+
+estimator    美 ['estəˌmeɪtə]    评价者，评估特有者
+
+finalized  vt.完成
+
+
+************************************************************
+源碼分析  最好
+Spark Streaming Backpressure分析
+http://www.cnblogs.com/barrenlake/p/5349949.html
+
+************************************************************
+
+
+************************************************************
+http://www.cnblogs.com/zlslch/p/6683814.html
+spark跑YARN模式或Client模式提交任务不成功（application state: ACCEPTED）
+************************************************************
+
+
+************************************************************
+linux 命令
+https://www.cnblogs.com/lixuwu/p/5944062.html
+************************************************************
+
+************************************************************
+HDFS节点内数据平衡
+https://blog.csdn.net/zhanglh046/article/details/78547462
+
+关于DataNode更改IP地址后所可能引发HDFS集群状态变化的分析
+https://blog.csdn.net/mingyuli/article/details/79984059
+
+hdfs体系结构-cdh5.7.1之hdfs各角色含义
+https://www.jianshu.com/p/e33ed0e3174f
+
+hadoop分布式部署
+http://blog.51cto.com/zengestudy/2091300
+************************************************************
+
+
+區別
+hdfs dfs 命令
+hadoop fs 命令
+
+
+
+2. 通过HashSet踢除重复元素
+
+复制代码
+public static List removeDuplicate(List list) {   
+    HashSet h = new HashSet(list);   
+    list.clear();   
+    list.addAll(h);   
+    return list;   
+}   
+复制代码
