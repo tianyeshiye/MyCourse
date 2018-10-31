@@ -1,0 +1,39 @@
+Deprecated  美 [ˈdɛprɪˌket]   vt.不赞成，反对
+
+Permanent  美 [ˈpɜ:rmənənt]   adj.永久（性）的，永恒的
+
+Eden   美 ['i:dn]  n.（圣经）伊甸园，乐园
+Survivor   美 [sərˈvaɪvə(r)]   n.生还者;幸存者
+
+Young Generation（Eden,from,to）、Old Generation、Permanent Generation
+一个Eden区，两个Survivor区(一般而言)
+
+
+基于hadoop的crc校验谈hadoop的离线设计思想
+https://blog.csdn.net/lskyne/article/details/8929235
+
+
+HADOOP中的CRC数据校验文件
+https://www.cnblogs.com/gpcuster/archive/2011/01/26/1945363.html
+
+
+_SUCCESS文件是判断一次MapReduce作业是否成功的标志,这是一种惯例,为什么要删掉呢?
+
+
+
+
+何时使用hadoop fs、hadoop dfs与hdfs dfs命令
+https://blog.csdn.net/jediael_lu/article/details/76829070
+
+
+hadoop fs,hadoop dfs以及hdfs dfs区别
+https://blog.csdn.net/u013019431/article/details/78485555
+
+
+
+https://blog.csdn.net/u013063153/article/details/75578363
+JVM GC的内存结构：Young Generation（Eden,from,to）、Old Generation、Permanent Generation
+
+https://blog.csdn.net/yrpting/article/details/52859721
+http://www.cnblogs.com/yaoyuan23/p/5587548.html
+JVM年轻代（young generation）老年代（old generation tenured）持久代（permanent generation）GC
