@@ -30,3 +30,7 @@ http://www.cnblogs.com/kaiwen03/p/9732691.html
 
 eclipse启动gc日志打印
 http://wenda.chinahadoop.cn/question/1085
+
+
+GC之七--gc日志分析工具
+http://www.cnblogs.com/duanxz/p/6092911.html
