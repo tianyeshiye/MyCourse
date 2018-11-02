@@ -1,0 +1,32 @@
+JVM GC的核心参数： -XX:Newratio -XX:Newsize -XX:Maxnewsize -XX:Surviorratio
+https://blog.csdn.net/u013063153/article/details/75729830
+
+
+
+JAVA(-Xms,Xmx,Xmn-XX:newSize,-XX:MaxnewSize,-XX:PermSize,-XX:MaxPermSize)区别
+https://blog.csdn.net/lovewebeye/article/details/80911838
+
+
+JVM系列三:JVM参数设置、分析
+http://www.cnblogs.com/redcreen/archive/2011/05/04/2037057.html
+
+
+成为Java GC专家（5）—Java性能调优原则
+http://www.importnew.com/13954.html
+
+
+
+Minor GC、Major GC和Full GC之间的区别
+http://www.importnew.com/15820.html
+
+
+Spark调优（数据序列化和内存调优）
+https://blog.csdn.net/junerli/article/details/78729006
+
+
+spark submit打印gc信息
+http://www.cnblogs.com/kaiwen03/p/9732691.html
+
+
+eclipse启动gc日志打印
+http://wenda.chinahadoop.cn/question/1085
