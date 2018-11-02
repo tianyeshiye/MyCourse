@@ -1,0 +1,44 @@
+Tuple   美 [tʌpl]   n.元组，数组
+
+suffix  美 [ˈsʌfɪks]  n.
+后缀，词尾
+
+prefix   美 [ˈpriˌfɪks]  <语>前缀;   在…前加上
+
+retain  美 [rɪˈten]   保持
+
+audit 美 [ˈɔdɪt]   审计，查账
+
+Frozen 美 [ˈfroʊzn]   冻结;冷藏;结冰
+
+Scavenge   美 [ˈskævəndʒ]   清除污物，打扫;
+
+Tenured  年老代;年老区
+
+permanent 美 [ˈpɜ:rmənənt] 永恒的，不变的
+
+Scavenge GC  
+Full GC 
+
+nano  美 ['nænoʊ]  纳米技术，毫微技术
+
+delegation   美 [ˌdɛlɪˈɡeʃən]   n.授权;委派
+
+specified  美 ['spesɪfaɪd]  指定
+
+equivalent   美 [ɪˈkwɪvələnt]  相等的，相当的
+
+resolve  美 [rɪˈzɑ:lv]   使分解  决意，决定
+
+implementation  履行;实施
+
+encouraged 美 [ɪn'kɜ:ɪdʒd]    v.鼓动;鼓励( encourage的过去式和过去分词 );支持;促进
+
+synchronizes  美 [ˈsɪŋkrəˌnaɪz, ˈsɪn-]同步
+
+entire  美 [ɛnˈtaɪr]   adj.整个的;全部的;
+
+JVM 堆(Heap)和非堆(Non-heap)内存  區別
+
+按照官方的说法：“Java 虚拟机具有一个堆，堆是运行时数据区域，所有类实例和数组的内存均从此处分配。堆是在 Java 虚拟机启动时创建的。”“在JVM中堆之外的内存称为非堆内存(Non-heap memory)”。
+可以看出JVM主要管理两种类型的内存：堆和非堆。简单来说堆就是Java代码可及的内存，是留给开发人员使用的；非堆就是JVM留给自己用的，
