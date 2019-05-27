@@ -1,0 +1,13 @@
+
+sudo -u hdfs hdfs dfs -rm -r /tmp/xxx.avsc
+
+sudo -u hdfs hdfs dfs -get /var/tmp/xxx.avsc /tmp
+sudo -u hdfs hdfs dfs -put /var/tmp/xxx.avsc /tmp
+sudo -u hdfs hdfs dfs -ls /tmp/xxx
+
+
+sudo -u hdfs hdfs dfs -rm -r /tmp/xxx.avro
+
+sudo -u hdfs hdfs dfs -rmr /tmp/txt/xxx.avro
+
+sudo -u hdfs hdfs dfs -du -h /tmp/txt/
